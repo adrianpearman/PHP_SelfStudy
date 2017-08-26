@@ -1,0 +1,1 @@
+For PHP; tags begin like '<?php  ?> ' or '<? ?>' or '<?= ?>' or '<% %>'. However many servers or applications will not work with that set up. For best practices, only use '<?php  ?>'
