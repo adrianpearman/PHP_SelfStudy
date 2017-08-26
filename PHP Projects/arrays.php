@@ -11,7 +11,7 @@
     // this is how to call an array value
     echo $numberList[0];
     echo '<br>';
-    // print_r will retun the array object
+    // print_r will retun the whole array object
     echo print_r($numberList);
      ?>
   </body>
